@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 29a61684-1d27-1d79-87aa-2f37c0abec2b
 resourcetype: Document
 title: "Civil Society \u2013 Paper for Week of International Politics and Globalization"
 uid: dc923404-8702-4167-3052-2a4995ad4120

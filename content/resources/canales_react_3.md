@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 29a61684-1d27-1d79-87aa-2f37c0abec2b
 resourcetype: Document
 title: Reaction Paper 3
 uid: 2eb4c85c-2f49-b0bb-0dc8-876b93665432

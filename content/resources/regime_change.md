@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 29a61684-1d27-1d79-87aa-2f37c0abec2b
 resourcetype: Document
 title: Civil Society as a Response to Categorical Failures of the State
 uid: ce92e564-5b7f-39ce-7440-95c29228d0c2

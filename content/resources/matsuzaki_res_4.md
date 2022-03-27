@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 29a61684-1d27-1d79-87aa-2f37c0abec2b
 resourcetype: Document
 title: 'Trust and Cooperation: Analysis and Critique of the Rational Actor Model'
 uid: a08f95b2-0802-177a-9c44-ecb303c99013
