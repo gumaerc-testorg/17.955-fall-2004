@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,13 +33,13 @@ These are only some of the possible approaches. Feel free to bounce an idea that
 Example Student Response Papers
 -------------------------------
 
-WEEK #7 ([PDF]({{< baseurl >}}/resources/regime_change)) Courtesy of anonymous student. Used with permission.
+WEEK #7 ({{% resource_link ce92e564-5b7f-39ce-7440-95c29228d0c2 "PDF" %}}) Courtesy of anonymous student. Used with permission.
 
-WEEK #9 ([PDF]({{< baseurl >}}/resources/anat_binur)) Courtesy of Anat Binur. Used with permission.
+WEEK #9 ({{% resource_link dc923404-8702-4167-3052-2a4995ad4120 "PDF" %}}) Courtesy of Anat Binur. Used with permission.
 
-WEEK #10 ([PDF]({{< baseurl >}}/resources/canales_react_3)) Courtesy of Rodrigo Canales. Used with permission.
+WEEK #10 ({{% resource_link 2eb4c85c-2f49-b0bb-0dc8-876b93665432 "PDF" %}}) Courtesy of Rodrigo Canales. Used with permission.
 
-WEEK #12 ([PDF]({{< baseurl >}}/resources/matsuzaki_res_4)) Courtesy of Reo Matsuzaki. Used with permission.
+WEEK #12 ({{% resource_link a08f95b2-0802-177a-9c44-ecb303c99013 "PDF" %}}) Courtesy of Reo Matsuzaki. Used with permission.
 
 Final Papers
 ------------
