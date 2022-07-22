@@ -5,6 +5,7 @@ file: /courses/17-955-civil-society-social-capital-and-the-state-in-comparative-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Trust and Cooperation: Analysis and Critique of the Rational Actor Model
 uid: a08f95b2-0802-177a-9c44-ecb303c99013
 ---
 Example student response paper courtesy of Reo Matsuzaki.
-

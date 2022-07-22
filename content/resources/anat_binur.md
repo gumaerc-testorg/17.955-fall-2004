@@ -5,6 +5,7 @@ file: /courses/17-955-civil-society-social-capital-and-the-state-in-comparative-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Civil Society \u2013 Paper for Week of International Politics and Global
 uid: dc923404-8702-4167-3052-2a4995ad4120
 ---
 Example student response paper courtesy of Anat Binur.
-

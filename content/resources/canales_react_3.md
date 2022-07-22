@@ -5,6 +5,7 @@ file: /courses/17-955-civil-society-social-capital-and-the-state-in-comparative-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Reaction Paper 3
 uid: 2eb4c85c-2f49-b0bb-0dc8-876b93665432
 ---
 Example student response paper courtesy of Roderigo Canales.
-
