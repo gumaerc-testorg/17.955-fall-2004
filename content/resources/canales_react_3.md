@@ -2,6 +2,7 @@
 content_type: resource
 description: Example student response paper courtesy of Roderigo Canales.
 file: /courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/2eb4c85c2f49b0bb0dc8876b93665432_canales_react_3.pdf
+file_size: 61170
 file_type: application/pdf
 learning_resource_types:
 - Assignments
