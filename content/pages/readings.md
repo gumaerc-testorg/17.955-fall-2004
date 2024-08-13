@@ -241,8 +241,6 @@ Jamwal, N. S. "[Hawala - The Invisible Financing System of Terrorism](http://www
 
 Schramm, Matthias, and Markus Taube. "Evolution and Institutional Foundation of the Hawala Financial System." *Report,* *German Institute for Economic Research, DIW-Berlin.* June 2002.
 
-Lambert, Larry. "[Underground Banking and National Security](http://www.subcontinent.com/sapra/bulletin/96feb-mar/si960308.html)." *SAPRA India Bulletin*. February-March 1996.
-
 Khagram, Sanjeev, James Riker, and Kathryn Sikkink. "From Santiago to Seattle: Transnational Advocacy Groups Restructuring World Politics." Chapter 1 in *Restructuring World Politics: Transnational Social Movements, Networks, and Norms*. Minneapolis, MN: University of Minnesota Press, 2002. ISBN: 9780816639076.
 
 Sikkink, Kathryn. "Restructuring World Politics: The Limits and Asymmetries of Soft Power." Chapter 15 in *Restructuring World Politics: Transnational Social Movements, Networks, and Norms*. Minneapolis, MN: University of Minnesota Press, 2002. ISBN: 9780816639076.
