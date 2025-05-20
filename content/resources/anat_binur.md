@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example student response paper courtesy of Anat Binur.
-file: /ol-ocw-studio-app/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/dc9234048702416730522a4995ad4120_anat_binur.pdf
+file: /courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/dc9234048702416730522a4995ad4120_anat_binur.pdf
 file_size: 80449
 file_type: application/pdf
 learning_resource_types:
