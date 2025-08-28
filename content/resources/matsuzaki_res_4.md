@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example student response paper courtesy of Reo Matsuzaki.
-file: /courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/a08f95b20802177a9c44ecb303c99013_matsuzaki_res_4.pdf
+file: /ol-ocw-studio-app/courses/17-955-civil-society-social-capital-and-the-state-in-comparative-perspective-fall-2004/a08f95b20802177a9c44ecb303c99013_matsuzaki_res_4.pdf
 file_size: 93425
 file_type: application/pdf
 learning_resource_types:
